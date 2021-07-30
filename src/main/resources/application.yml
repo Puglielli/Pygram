@@ -1,0 +1,10 @@
+spring:
+  profiles.active: local
+  application:
+    name: Pygram
+
+telegram:
+  name: PYGRAMPUGLIELLIBOT
+  token:
+
+server.port: 8081
